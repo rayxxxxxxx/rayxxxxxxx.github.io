@@ -10,4 +10,4 @@ if __name__ == '__main__':
     main()
 ```
 
-![Perceptron](./images/Untitled%20Diagram.drawio.svg Perceptron)
+![Perceptron](./images/Untitled%20Diagram.drawio.svg "Perceptron")
